@@ -11,5 +11,5 @@ new_post(title = 'first_post.Rmd')
 serve_site()
 
 
-new_post(title = "easy git for beginners.Rmd",
-         tags = "code")
+new_post(title = "test_post.Rmd",
+         tags = "test")
