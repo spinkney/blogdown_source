@@ -3,8 +3,6 @@ title: easy git for beginners
 author: spinkney
 date: '2017-12-17'
 slug: easy-git-for-beginners
-categories:
-  - git
 tags:
   - code
 keep_md: true
