@@ -16,8 +16,8 @@ publishDir = "../spinkney.github.io"
 
 [Params]
     intro = true
-    headline = "sp project"
-    description = "an analysis laboratory"
+    headline = "too data"
+    description = "too bayes"
     github = "https://github.com/spinkney"
     # gitlab = "https://gitlab.com/XXX"
     linkedin = "https://linkedin.com/in/sean-pinkney-0009b910/"

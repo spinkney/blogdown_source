@@ -1,11 +1,10 @@
 +++
 title = "About"
-date = 2017-12-17
+date = 2021-12-05
 author = "Sean Pinkney"
 description = "Sean Pinkney"
 +++
 
 ## About
 <img src="https://avatars.githubusercontent.com/spinkney" >
-
-I work at comScore measuring advertising effectiveness in the statistics department.
+Leading a data science department at Bully Pulpit Interactive since December 2021.
